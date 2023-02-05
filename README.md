@@ -22,19 +22,19 @@ As atividades foram separadas em cinco listas. Abaixo estão os enunciados.
 - Ler dois números inteiros para variáveis a e b. Trocar o valor de b com o de a, e imprimi-los.
 - Leia um número e imprima o resto da divisão por 7.
     10 - Calcular a soma dos termos de uma P.A. lendo os valores do primeiro termo, do segundo termo e do número de
-  - ) Ler um valor inteiro do teclado e dizer se é par
-  - ) Ler um valor inteiro do teclado e dizer se é ímpar
-  - ) ler um valor inteiro do teclado e dizer se ímpar e maior que 100.
-  - ) ler um valor inteiro do teclado e dizer se é par e menor que 100, ou ímpar e maior que 100.
-  - ) ler um valor inteiro do teclado e dizer se pertence ao intervalo aberto entre (25:75).
-  - ) ler um valor inteiro do teclado e dizer se pertence ao intervalo fechado entre [25:75].
-  - ) ler um valor inteiro do teclado e dizer se pertence aos intervalos fechados [15:45] ou [66:99]
-  - ) ler dois valores inteiros do teclado e dizer se o primeiro é par e o segundo é ímpar.
-  - ) ler dois valores inteiros do teclado e dizer se o primeiro é par e positivo, e o segundo é ímpar e negativo.
-  - ) ler dois valores reais do teclado e dizer se o primeiro é maior, menor ou igual ao segundo.
-  - ) ler três valores reais do teclado e dizer se o primeiro está entre os outros dois
-  - ) ler três valores reais do teclado e dizer se o primeiro não está entre os outros dois
-  - ) ler três valores literais (caracteres) do teclado e dizer se o primeiro está entre os outros dois
-  - ) ler três valores literais (caracteres) do teclado e dizer se estão em ordem crescente lexicograficamente.
-  - ) ler um valor literal (caractere) do teclado e dizer se é uma letra maiúscula.
+  - Ler um valor inteiro do teclado e dizer se é par
+  - Ler um valor inteiro do teclado e dizer se é ímpar
+  - ler um valor inteiro do teclado e dizer se ímpar e maior que 100.
+  - ler um valor inteiro do teclado e dizer se é par e menor que 100, ou ímpar e maior que 100.
+  - ler um valor inteiro do teclado e dizer se pertence ao intervalo aberto entre (25:75).
+  - ler um valor inteiro do teclado e dizer se pertence ao intervalo fechado entre [25:75].
+  - ler um valor inteiro do teclado e dizer se pertence aos intervalos fechados [15:45] ou [66:99]
+  - ler dois valores inteiros do teclado e dizer se o primeiro é par e o segundo é ímpar.
+  - ler dois valores inteiros do teclado e dizer se o primeiro é par e positivo, e o segundo é ímpar e negativo.
+  - ler dois valores reais do teclado e dizer se o primeiro é maior, menor ou igual ao segundo.
+  - ler três valores reais do teclado e dizer se o primeiro está entre os outros dois
+  - ler três valores reais do teclado e dizer se o primeiro não está entre os outros dois
+  - ler três valores literais (caracteres) do teclado e dizer se o primeiro está entre os outros dois
+  - ler três valores literais (caracteres) do teclado e dizer se estão em ordem crescente lexicograficamente.
+  - ler um valor literal (caractere) do teclado e dizer se é uma letra maiúscula.
 
